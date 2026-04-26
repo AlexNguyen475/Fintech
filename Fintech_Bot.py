@@ -40,8 +40,8 @@ from datetime import datetime, timezone, timedelta
 # ============================================================
 
 # --- Telegram ---
-TELEGRAM_TOKEN   = "8772373825:AAHzNmo04y0HjygRfsK3frmLpywpj-tGraE"
-TELEGRAM_CHAT_ID = "8172586515"
+TELEGRAM_TOKEN   = "<TOKEN_ID>"
+TELEGRAM_CHAT_ID = "<TELEGRAM_ID>"
 
 # --- Whitelist dung dinh dang Bitget: {TICKER}ONUSDT ---
 # Toan bo 54 token tokenized stocks trong de thi (Muc A.5)
